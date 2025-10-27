@@ -1,15 +1,14 @@
 <div align="center">
 
-  # 💻 German Aquino
-  
-  ### Desarrollador de Software y Especialista en Ciberseguridad
-  
-  <p>
-    Mi misión: construir infraestructuras sólidas y defender los nodos vitales.
-  </p>
-  
-  ---
-  
+# 💻 German Aquino
+
+### Desarrollador de Software y Especialista en Ciberseguridad
+
+<p>
+  Mi misión: **construir infraestructuras sólidas y defender los nodos vitales.**
+</p>
+
+---
 
 </div>
 
@@ -17,22 +16,23 @@
 
 ## 🛠️ Stack Tecnológico
 
+### 🖥️ Lenguajes de Programación
 
-### 🖥️ Interfaz (Frontend & Mobile)
+| Lenguaje | Insignia |
+| :--- | :--- |
+| **Python** | ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black) |
+| **Dart** | ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black) |
+| **JavaScript** | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=black) |
+| **Ruby** | ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&color=black) |
+| **C** | ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=black) |
+
+### 🌐 Frameworks y Plataformas
 
 | Tecnología | Enfoque | Insignia |
 | :--- | :--- | :--- |
 | **Flutter** | Mobile/Web | ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=black) |
 | **React** | Web | ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=black) |
-| **Dart** | Lenguaje | ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=black) |
-| **JavaScript** | Lenguaje Base | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=black) |
-
-### 🧠 Núcleo Lógico (Backend & Data)
-
-| Tecnología | Tipo | Insignia |
-| :--- | :--- | :--- |
-| **Ruby** | Lenguaje | ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&color=black) |
-| **Ruby on Rails** | Framework | ![Ruby on Rails Badge](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=black) |
+| **Ruby on Rails** | Backend | ![Ruby on Rails Badge](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=black) |
 | **Supabase** | BaaS/Base de Datos | ![Supabase Badge](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=black) |
 | **Firebase** | BaaS/NoSQL | ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&color=black) |
 | **MySQL** | Base de Datos | ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=black) |
@@ -64,6 +64,7 @@
 </div>
 
 ---
+
 
 ## 🌐 Conectando Nodos (¡Hablemos!)
 <div align="center">
