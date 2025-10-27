@@ -5,7 +5,7 @@
 ### Desarrollador de Software y Especialista en Ciberseguridad
 
 <p>
-  Mi misión: **construir infraestructuras sólidas y defender los nodos vitales.**
+  Mi misión: construir infraestructuras sólidas y defender los nodos vitales.
 </p>
 
 ---
