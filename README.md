@@ -1,7 +1,5 @@
 <div align="center">
 
-# 💻 German Aquino
-
 ### Desarrollador de Software y Especialista en Ciberseguridad
 
 <p>
